@@ -2,11 +2,13 @@ export default {
   label: "Pr",
   name: {
     en: "Atmospheric pressure",
-    ru: "Атмосферное давление"
+    ru: "Атмосферное давление",
+    el: "Ατμοσφαιρική πίεση"
   },
   nameshort: {
     en: "Pressure",
-    ru: "Давление"
+    ru: "Давление",
+    el: "Πίεση"
   },
   unit: "mmHg",
 };
